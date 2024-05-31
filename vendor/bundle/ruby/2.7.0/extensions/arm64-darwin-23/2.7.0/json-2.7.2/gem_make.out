@@ -1,0 +1,13 @@
+current directory: /Users/parkhyun/DDayApp/DDAY/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+/Users/parkhyun/.rbenv/versions/2.7.5/bin/ruby -I /Users/parkhyun/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20240530-57640-18d5i1u.rb extconf.rb
+creating Makefile
+
+current directory: /Users/parkhyun/DDayApp/DDAY/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/parkhyun/DDayApp/DDAY/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/parkhyun/DDayApp/DDAY/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" install

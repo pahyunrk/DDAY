@@ -1,0 +1,15 @@
+current directory: /Users/parkhyun/DDayApp/DDAY/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+/Users/parkhyun/.rbenv/versions/2.7.5/bin/ruby -I /Users/parkhyun/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20240530-57640-1ktnu8d.rb extconf.rb
+creating Makefile
+
+current directory: /Users/parkhyun/DDayApp/DDAY/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" clean
+
+current directory: /Users/parkhyun/DDayApp/DDAY/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR="
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/parkhyun/DDayApp/DDAY/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240530-57640-1agk2pn
